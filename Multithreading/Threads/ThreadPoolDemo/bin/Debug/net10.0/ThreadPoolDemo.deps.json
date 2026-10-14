@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ThreadPoolDemo/1.0.0": {
+        "runtime": {
+          "ThreadPoolDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadPoolDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
